@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Global variables for MySQL credentials and output file
-DB_HOST="172.16.2.80"
+DB_HOST="127.0.0.1"
 DB_USER="root"
 DB_PASS="root"
 OUTPUT_FILE="output.csv"
